@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.sqlite
+*.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+vite/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+
+# 临时文件
+*.log
+*.tmp
+
+# 已有的 MCP/工具文件（非项目核心）
+xiaohongshu-mcp/
+xiaoyuzhou_episode_*.md
+caicaizhunzhun_demo.py
